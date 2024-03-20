@@ -1,4 +1,4 @@
-import { View, TouchableOpacity } from "react-native"
+import { View, TouchableOpacity, Text } from "react-native"
 import styles from "./styles.js"
 import Title from "../../components/Title/index.jsx"
 import { user } from "../../data/Profile.js"
